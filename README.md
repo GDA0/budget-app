@@ -1,2 +1,3 @@
-# python
-A template repo for creating Python projects
+# Budget App
+
+A budget app
